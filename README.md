@@ -56,7 +56,7 @@ A coleta de dados deve sempre respeitar os Termos de Uso dos sites acessados, be
 ### 1. Clone o repositório
 
 ```bash id="1a9g6m"
-git clone <url-do-repositorio>
+git clone <https://github.com/Lucksander/Webscraper-Python>
 ```
 
 ### 2. Instale as dependências
